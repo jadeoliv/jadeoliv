@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao perfil Jade Oliveira 😁
+## Olá! Sou Jade Oliveira, apaixonada por tecnologia e inovação. 
+### Bem-vindo(a) ao meu cantinho no GitHub!
 
  <div>
    <a href="https://github.com/jadeoliv">
